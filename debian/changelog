@@ -1,3 +1,10 @@
+notify-send-ng (1.0.0-2) bullseye; urgency=medium
+
+  [ Mike Roberts ]
+  * Fix workflow files
+
+ -- pi-top <deb-maintainers@pi-top.com>  Sun, 29 Aug 2021 19:11:49 +0000
+
 notify-send-ng (1.0.0-1) bullseye; urgency=medium
 
   * Initial release
