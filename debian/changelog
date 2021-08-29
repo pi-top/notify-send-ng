@@ -1,0 +1,5 @@
+notify-send-ng (1.0.0-1) bullseye; urgency=medium
+
+  * Initial release
+
+ -- pi-top <deb-maintainers@pi-top.com>  Wed, 02 Jun 2021 11:20:04 -0400

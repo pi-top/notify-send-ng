@@ -1,0 +1,29 @@
+Source: notify-send-ng
+Section: utils
+Priority: optional
+Maintainer: Vyacheslav Levit <dev@vlevit.org>
+Build-Depends: debhelper-compat (= 12),
+Standards-Version: 4.5.1
+Homepage: https://github.com/vlevit/notify-send-ng
+
+Package: notify-send-ng
+Architecture: all
+Depends:
+ ${misc:Depends},
+ notify-send.sh,
+ libglib2.0-bin,
+Replaces:
+# /usr/bin/notify-send is replaced
+ libnotify-bin,
+Description: Drop-in replacement for notify-send with more features
+ notify-send-ng uses notify-send.sh for updating and closing existing notifications,
+ and also offers support for root users.
+
+Package: notify-send.sh
+Architecture: all
+Depends:
+ ${misc:Depends},
+ libnotify-bin,
+Description: notify-send with ability to update and close existing notifications
+ notify-send.sh is a drop-in replacement for notify-send (from libnotify) with
+ the ability to update and close existing notifications.
