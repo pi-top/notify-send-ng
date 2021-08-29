@@ -16,8 +16,8 @@ Replaces:
 # /usr/bin/notify-send is replaced
  libnotify-bin,
 Description: Drop-in replacement for notify-send with more features
- notify-send-ng uses notify-send.sh for updating and closing existing notifications,
- and also offers support for root users.
+ notify-send-ng uses notify-send.sh for updating and closing existing
+ notifications, and also offers support for root users.
 
 Package: notify-send.sh
 Architecture: all

@@ -5,6 +5,7 @@ Source: notify-send-ng
 Files: notify-send.sh/*
 Copyright: 2015-2021 Vyacheslav Levit
 License: GPL-3+
+ `/usr/share/common-licenses/GPL-3'.
 
 Files: debian/*
 Copyright: Copyright 2021 CEED Ltd.
