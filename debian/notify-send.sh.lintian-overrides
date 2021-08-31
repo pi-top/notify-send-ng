@@ -1,4 +1,4 @@
 notify-send.sh: no-manual-page usr/bin/notify-action.sh
-notify-send.sh: no-manual-page usr/bin/notify-send
+notify-send.sh: no-manual-page usr/bin/notify-send.sh
 notify-send.sh: script-with-language-extension usr/bin/notify-action.sh
 notify-send.sh: script-with-language-extension usr/bin/notify-send.sh
