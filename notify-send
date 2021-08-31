@@ -7,6 +7,8 @@ set -euo pipefail
 IFS=$'\n\t'
 ###############################################################
 
+WAIT_FOR_DISPLAY_TIMEOUT=${1:-30}
+
 # Simplified from https://stackoverflow.com/a/49533938/2268426
 DEBUG=${DEBUG:-false}
 
@@ -32,7 +34,7 @@ run_main() {
     exit 1
   fi
 
-  for _ in {1..10}; do
+  for _ in {1..${WAIT_FOR_DISPLAY_TIMEOUT}}; do
     user="$(get_user_using_display "${display}")"
     if [[ -n "${user}" ]]; then
       break
