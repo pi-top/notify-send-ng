@@ -11,7 +11,7 @@ notify-send-ng (1.0.0-2) bullseye; urgency=medium
   * Remove script from debian/
   * Updated master workflow files
 
- -- pi-top <deb-maintainers@pi-top.com>  Wed, 01 Sep 2021 20:46:40 +0000
+ -- pi-top <deb-maintainers@pi-top.com>  Wed, 01 Sep 2021 20:47:40 +0000
 
 notify-send-ng (1.0.0-1) bullseye; urgency=medium
 
