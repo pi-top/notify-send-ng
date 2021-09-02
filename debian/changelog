@@ -1,3 +1,18 @@
+notify-send-ng (1.0.0-2) bullseye; urgency=medium
+
+  * Fix workflow files
+  * Fix workflow files
+  * Fix rules file
+  * Check out with submodules
+  * Fix warnings
+  * Updated master workflow files
+  * Increase max wait time for display to 30s
+  * Fix Lintian overrides
+  * Remove script from debian/
+  * Updated master workflow files
+
+ -- pi-top <deb-maintainers@pi-top.com>  Wed, 01 Sep 2021 20:47:40 +0000
+
 notify-send-ng (1.0.0-1) bullseye; urgency=medium
 
   * Initial release
