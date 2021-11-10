@@ -1,3 +1,12 @@
+notify-send-ng (1.0.0-3) bullseye; urgency=medium
+
+  * Updated master workflow files
+  * Add README
+  * Update README
+  * Add Lintian override
+
+ -- pi-top <deb-maintainers@pi-top.com>  Wed, 03 Nov 2021 11:23:28 +0000
+
 notify-send-ng (1.0.0-2) bullseye; urgency=medium
 
   * Fix workflow files
