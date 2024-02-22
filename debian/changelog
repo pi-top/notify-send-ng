@@ -1,3 +1,18 @@
+notify-send-ng (1.0.0-4) bullseye; urgency=medium
+
+  * Updated master workflow files
+  * Add signing key and passphrase to deb_release workflow
+  * Add pull request template
+  * Update PR template to track Github issues
+  * Updated master workflow files
+  * Updated master workflow files
+  * Updated master workflow files
+  * Updated master workflow files
+  * Updated master workflow files
+  * Package for bookworm (#5)
+
+ -- pi-top <deb-maintainers@pi-top.com>  Thu, 22 Feb 2024 14:35:43 +0000
+
 notify-send-ng (1.0.0-3) bullseye; urgency=medium
 
   * Updated master workflow files
