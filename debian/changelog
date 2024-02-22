@@ -1,3 +1,10 @@
+notify-send-ng (1.0.0-5) bullseye; urgency=medium
+
+  * Upload all artifacts on release
+  * Update release workflow
+
+ -- pi-top <deb-maintainers@pi-top.com>  Thu, 22 Feb 2024 16:46:01 +0000
+
 notify-send-ng (1.0.0-4) bullseye; urgency=medium
 
   * Updated master workflow files
