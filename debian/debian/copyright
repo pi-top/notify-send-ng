@@ -1,0 +1,18 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: notify-send-ng
+Source: notify-send-ng
+
+Files: notify-send.sh/*
+Copyright: 2015-2021 Vyacheslav Levit
+License: GPL-3+
+ `/usr/share/common-licenses/GPL-3'.
+
+Files: debian/*
+Copyright: Copyright 2021 CEED Ltd.
+License: Apache-2.0
+ `/usr/share/common-licenses/Apache-2.0'.
+
+Files: notify-send
+Copyright: Copyright 2021 CEED Ltd.
+License: Apache-2.0
+ `/usr/share/common-licenses/Apache-2.0'.
