@@ -1,3 +1,9 @@
+notify-send-ng (1.1.0-1) bookworm; urgency=medium
+
+  * Allow running the changelog bump by hand
+
+ -- pi-top <deb-maintainers@pi-top.com>  Fri, 13 Nov 2026 14:14:27 +0000
+
 notify-send-ng (1.0.0-6) bullseye; urgency=medium
 
   * Updated master workflow files
